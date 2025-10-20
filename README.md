@@ -52,7 +52,7 @@ Faça um logo para um podcast de marketing digital. O nome do podcast é "Market
 - Imagem quadriculada
 ```
 
-![Logo do Podcast Marketing Sem Mistério (Gerada por Prompt)]((https://ibb.co/3YCNVL5m))
+![Logo do Podcast Marketing Sem Mistério (Gerada por Prompt)](https://ibb.co/3YCNVL5m)
 
 ### 3. Roteiro e Conteúdo (Base para Text-to-Speech)
 
