@@ -51,8 +51,7 @@ Faça um logo para um podcast de marketing digital. O nome do podcast é "Market
 - Azul e Amarelo são as cores principais
 - Imagem quadriculada
 ```
-
-![Logo do Podcast Marketing Sem Mistério (Gerada por Prompt)](marketing_sem_misterio_logo.png)
+<img src="marketing_sem_misterio_logo.png" alt="Logo Gerado por IA" width="400">
 
 ### 3. Roteiro e Conteúdo (Base para Text-to-Speech)
 
